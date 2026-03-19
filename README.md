@@ -46,7 +46,7 @@ Now instantiate a uniplayer, passing an options object (specifying the id of you
 			
 		}
 	};
-new code
+new partex
 	var player = new ShelbyPlayer(options, myStateChangeFunc);
 ```
 
