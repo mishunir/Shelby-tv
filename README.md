@@ -48,8 +48,7 @@ Now instantiate a uniplayer, passing an options object (specifying the id of you
 	};
 new partex
 	var player = new ShelbyPlayer(options, myStateChangeFunc);
-```
-4587
+sdf 
 Play broadcasts by passing in the channel id and broadcast id
 
 ``` js
