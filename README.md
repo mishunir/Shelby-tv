@@ -52,7 +52,7 @@ Play broadcasts by passing in the channel id and broadcast id
 hygjill
 ``` js
 	player.playBroadcast(channelId, broadcastId);
-```lllkk
+```uiytd
 
 You can also programmatically control playback 
 
